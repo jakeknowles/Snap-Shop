@@ -110,7 +110,6 @@ public class SnapShopGUI extends JFrame {
         super("TCSS 305 SnapShop");
     }
     
-    
     /** SetUp Assignment. */
     private void beginSetup() {
         myPanel = new JPanel(new BorderLayout());
