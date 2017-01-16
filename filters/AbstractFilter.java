@@ -16,6 +16,7 @@ import image.PixelImage;
  * @version 1.1
  */
 public abstract class AbstractFilter implements Filter {
+    
     /**
      * The "Filter" suffix.
      */
